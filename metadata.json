@@ -1,0 +1,8 @@
+{
+  "name": "JalSetu - Smart Water & Tank Monitor",
+  "description": "Mobile-first IoT water conservation and tank monitoring system for ESP32 with multi-language voice support, leakage alerts, and offline direct control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
